@@ -1,5 +1,5 @@
 # nctornga.github.io
-> Hi myname is neetch!!
+> Hi my name is neetch!!
 ---
 
 ![comp_1](https://user-images.githubusercontent.com/118234317/203186153-b89eb3cc-95a8-4fd2-bb86-c10338eaff04.jpg)
